@@ -3,4 +3,4 @@
 # 𓂃 🐇 programmer girl  𓂁  ˒
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-╰┈➤ Oi! Meu nome é Lívia e sou estudante de Inteligência Artificial na Universidade Federal do Delta.
+╰┈➤ Oi! Eu sou Lívia e sou estudante de Inteligência Artificial na Universidade Federal do Delta.
